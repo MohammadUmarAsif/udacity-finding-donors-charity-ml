@@ -2,7 +2,7 @@
 ## Nanodegree (Intro to Machine Learning with Pytorch)
 Udacity project to identify potential donors for a fictitious organization using different supervised learning algorithms.
 
-# Software & Libraries
+## Software & Libraries
 - Python
 - NumPy
 - pandas
