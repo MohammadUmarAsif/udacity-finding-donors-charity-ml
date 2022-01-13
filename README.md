@@ -1,5 +1,5 @@
 
-# Udacity Project: Finding Donors Charity-ML
+# Udacity Project: Finding Donors for Charity-ML
 ## Nanodegree (Intro to Machine Learning with Pytorch)
 
 ### Description
